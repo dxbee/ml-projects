@@ -7,4 +7,4 @@ This repository contains a collection of machine learning projects aimed at solv
 ## Projects Included
 1. [Housing Prices Prediction](housing-prices-prediction/)
    - An analysis and predictive model for housing prices using linear regression.
-   - 
+     
