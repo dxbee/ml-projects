@@ -5,6 +5,7 @@ A collection of machine learning projects demonstrating practical applications o
 This repository contains a collection of machine learning projects aimed at solving real-world problems through data analysis, predictive modeling, and classification techniques. Each project demonstrates the use of various machine learning algorithms and data preprocessing techniques.
 
 ## Projects Included
-1. [Housing Prices Prediction](housing-prices-prediction/)
+1. Housing Prices Prediction
    - An analysis and predictive model for housing prices using linear regression.
      
+2. Student Depression Prediction
