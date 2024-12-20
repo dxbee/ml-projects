@@ -9,3 +9,7 @@ This repository contains a collection of machine learning projects aimed at solv
    - An analysis and predictive model for housing prices using linear regression.
      
 2. Student Depression Prediction
+   - Best model and feature list for student depression prediction.
+
+3. Customer Shopping Trends
+   - Predictive models and clustering analysis for insights into purchase behavior and patterns.
